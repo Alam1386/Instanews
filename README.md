@@ -1,14 +1,14 @@
 
 # InstaNews-Web-page 
 
- #### Project 2 of Web Devlopment Course
+ ### Project 2 of Web Devlopment Course
 
 ------------------------------------------------------
-##### About:
+### About:
 
 Insta News is the second web developemnt project in Red Academy. It is a dynamic web page that contains the top stories from the New York Times. We obtain the top stories from New York Times through using API. we put the URL link using AJAX format in javaScript.
 
-##### Programs used in this Project:
+### Programs used in this Project:
 
 * HTML
 * CSS/SCSS/SASS
@@ -17,16 +17,16 @@ Insta News is the second web developemnt project in Red Academy. It is a dynamic
 * Gulp
 
 
-##### Software used in this Project:
+### Software used in this Project:
 
  * Brackets Text Editor
  * iTerm2
  * Git
  * Google Chrome Developer Tools
 
- ##### Developed by: 
+ ### Developed by: 
  Alam Talash 
 
  @: RED Academy Toronto 
 
- ###### Date: 31 Jan 2019
+ ### Date: 31 Jan 2019
